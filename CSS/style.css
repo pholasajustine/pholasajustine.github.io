@@ -1,0 +1,9 @@
+@import url("components/navbar.css");
+@import url("components/banner.css");
+@import url("components/subcontent.css");
+@import url("components/newsletter.css");
+@import url("components/footer.css");
+
+body{
+	position: relative;
+}

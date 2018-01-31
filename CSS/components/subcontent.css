@@ -1,0 +1,19 @@
+.subcontent{
+	padding-top: 3%;
+	padding-bottom: 5%;
+}
+.subcontent h2{
+	padding-bottom: 3%;
+	text-align: center;
+}
+.subcontent h3{
+	text-align: left;
+}
+.subcontent p{
+	text-align: justify;
+}
+
+.subcontent img {
+  max-width: 100%;
+  height: auto;
+}
